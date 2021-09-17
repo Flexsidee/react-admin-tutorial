@@ -1,3 +1,4 @@
+/* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
 export default {
     //called when the user attempts to log in
     login: ({username}) =>{
